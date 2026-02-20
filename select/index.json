@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "フリィダム ロリィタ (Cover)",
+  "base_artist": "センラ",
+  "createdAt": "2026-02-20T02:43:40.962941Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フリィダム ロリィタ",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/01_フリィダム_ロリィタ_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フリィダム ロリィタ",
+      "artist": "ねじ式",
+      "has_synced": true,
+      "path": "select/02_フリィダム_ロリィタ_ねじ式.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フリィダムロリィタ",
+      "artist": "センラ",
+      "has_synced": false,
+      "path": "select/pl_01_フリィダムロリィタ_センラ.txt"
+    }
+  ]
+}
